@@ -1,8 +1,8 @@
-#Midterm Project
+###**Midterm Project**
 
 by _Campon_ and _Colobong_
 
-###1. Information Gathering  
+###**1. Information Gathering**
 - **Amass** - The verb "_amass_" means to gather a large amount of something, especially money or information, by collecting it over a long period. 
 **[Youtube Tutorial]** _(https://www.youtube.com/watch?v=-GC4cV-4iKs)_
 
@@ -30,7 +30,7 @@ by _Campon_ and _Colobong_
 - **spiderfoot** - SpiderFoot is an open source intelligence (OSINT) automation tool that's designed to automate the process of gathering intelligence about a given target, which may be an IP address, domain name, hostname, or network subnet. 
 **[Youtube Tutorial]** _(https://www.youtube.com/watch?v=UqrwXjqxgeI)_
 
-### **2. Vulnerability Analysis**
+###**2. Vulnerability Analysis**
 
 - **Fuzzing Tools** - Fuzzing tools are used to root out odd programming errors that might result in dangerous unexpected application errors that attackers can exploit.
 **[Youtube Tutorials]** _(https://www.youtube.com/watch?v=UDaeS7455mU)_
