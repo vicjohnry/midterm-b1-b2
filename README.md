@@ -2,7 +2,7 @@
 
 by _Campon_ and _Colobong_
 
-##**1. Information Gathering**
+##**Information Gathering**
 - **Amass** - The verb "_amass_" means to gather a large amount of something, especially money or information, by collecting it over a long period. 
 **[Youtube Tutorial]** _(https://www.youtube.com/watch?v=-GC4cV-4iKs)_
 
