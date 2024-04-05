@@ -1,4 +1,5 @@
-##Midterm Project
+#Midterm Project
+
 by _Campon_ and _Colobong_
 
 ###1. Information Gathering  
